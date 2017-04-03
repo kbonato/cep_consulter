@@ -1,7 +1,5 @@
 #!/bin/bash
   
-sudo pip install bs4 && sudo pip install termcolor && sudo pip install requests
+sudo pip install bs4 && sudo pip install termcolor && sudo pip install requests && sudo pip install lxml
 
-#Debian/Ubuntu - apt-get install python3-lxml
-#CentOS - yum install -y python3-lxml
-#chmod 777 cep_consulter
+chmod 777 cep_consulter
