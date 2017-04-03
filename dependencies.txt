@@ -2,4 +2,4 @@
   
 sudo pip install bs4 && sudo pip install termcolor && sudo pip install requests && sudo pip install lxml
 
-chmod 777 cep_consulter
+chmod 777 cep_consulter.py
